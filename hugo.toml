@@ -1,0 +1,41 @@
+baseURL = 'https://yourusername.github.io/'
+languageCode = 'zh-cn'
+title = '深空信号站'                           # 网站大标题，带有一点科幻的孤独与探索感
+theme = "PaperMod"
+
+[params]
+    env = "production"
+    title = "深空信号站"
+    description = "以文字为引信，在逻辑与想象的边界，构建微型宇宙。"
+    
+    # 核心体验配置
+    defaultTheme = "dark"                     # 强烈建议把默认主题直接设为暗黑（dark），极具科幻沉浸感
+    ShowReadingTime = true                    # 读者能看到读完这篇科幻小说需要多少分钟
+    ShowShareButtons = false                  # 保持绝对的克制与清爽
+
+    # 首页个人/作品集名片模式
+    [params.profileMode]
+        enabled = true 
+        title = "🛰️ 正在接收思想信号..."
+        subtitle = "这里是一处专注于短篇科幻创作的独立观测台。用严谨的逻辑重建过去，用跳跃的想象推演未来。少则得，多则惑。"
+
+    # 社交/联系方式图标（选填：在名片下方显示清爽的小图标）
+    [[params.socialIcons]]
+        name = "email"
+        url = "mailto:your-email@email.com"    # 换成你的邮箱，方便读者或出版合作联系你
+
+# 顶部导航栏：为你的科幻作品精细分类
+[[menu.main]]
+    name = "🚀 观测台"                         # 代替普通的“首页”
+    url = "/"
+    weight = 10
+
+[[menu.main]]
+    name = "🌌 编年史（全部作品）"               # 所有的科幻小说目录
+    url = "/posts/"
+    weight = 20
+
+[[menu.main]]
+    name = "📡 档案库（关于我）"                 # 介绍你建站的初心、创作理念
+    url = "/about/"
+    weight = 30

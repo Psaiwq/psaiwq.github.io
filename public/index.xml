@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>深空信号站</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 深空信号站</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 05 Jun 2026 12:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📡 档案库：关于观测员</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;个人识别码观测员&#34;&gt;个人识别码：观测员&lt;/h2&gt;
+&lt;p&gt;欢迎来到这处位于数字旷野深处的独立信号站。&lt;/p&gt;
+&lt;p&gt;这里没有任何算法推荐，没有信息茧房，也没有嘈杂的社交噪声。我遵循&lt;strong&gt;数字极简主义&lt;/strong&gt;，仅保留最纯粹的文本与逻辑，在此记录我对宇宙、时间以及科技边界的想象。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;核心观测方向&#34;&gt;核心观测方向&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;短篇科幻创作&lt;/strong&gt;：用严谨的物理与逻辑作为地基，推演未来的重重可能。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;深空思维模型&lt;/strong&gt;：保持克制，在信息洪流中践行“深度工作”。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“少则得，多则惑。保持绝对的理性和专注，才能在嘈杂的宇宙中听到微弱的真理信号。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如果你对某个世界观感兴趣，或者想进行出版/创作上的技术交流，欢迎通过名片下方的公开信道（Email）发射信号。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>深空信号站：节点 01 启动日志</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>“当最后的实体档案馆在光流中解体，纯文本便成了宇宙中唯一的低熵实体。”——深空信号站建立契机。</description>
+    </item>
+  </channel>
+</rss>
