@@ -9,7 +9,7 @@ theme = "PaperMod"
     description = "骏彦会在这里写有趣的科幻小说"
     
     # 核心体验配置
-    defaultTheme = "dark"                     # 强烈建议把默认主题直接设为暗黑（dark），极具科幻沉浸感
+    defaultTheme = "light"                     # 强烈建议把默认主题直接设为暗黑（dark），极具科幻沉浸感
     ##ShowReadingTime = true                    # 读者能看到读完这篇科幻小说需要多少分钟
     ShowShareButtons = false                  # 保持绝对的克制与清爽
 
