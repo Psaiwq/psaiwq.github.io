@@ -1,6 +1,6 @@
 baseURL = 'https://yourusername.github.io/'
 languageCode = 'zh-cn'
-title = '骏彦的科幻小说之家'                           # 网站大标题，带有一点科幻的孤独与探索感
+title = '骏彦的科幻小说'                           # 网站大标题，带有一点科幻的孤独与探索感
 theme = "PaperMod"
 
 [params]
