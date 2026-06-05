@@ -39,3 +39,7 @@ theme = "PaperMod"
     name = "📡 关于我"                 # 介绍你建站的初心、创作理念
     url = "/about/"
     weight = 30
+
+
+    [params]
+ShowReadingTime = false
