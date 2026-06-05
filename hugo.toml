@@ -6,7 +6,7 @@ theme = "PaperMod"
 [params]
     env = "production"
     title = "骏彦的科幻小说"
-    description = "以文字为引信，在逻辑与想象的边界，构建微型宇宙。"
+    description = "骏彦会在这里写有趣的科幻小说"
     
     # 核心体验配置
     defaultTheme = "dark"                     # 强烈建议把默认主题直接设为暗黑（dark），极具科幻沉浸感
