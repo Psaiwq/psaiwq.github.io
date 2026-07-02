@@ -1,11 +1,16 @@
+
 ---
 title: "📡 关于我"
 draft: false
 ---
 
+<p style="text-align:center;">
+  <img src="/images/profile.png" alt="头像" style="width:160px;border-radius:50%;display:inline-block;margin-bottom:1rem;">
+</p>
+
 ## 个人简介
 
-我是一名中学物理老师，喜欢在空闲的时候写有趣的科幻小说，我希望能保持乐观与勇气，相信科学与人类的能力，做一个真正善良的人。٩(๑•̀ω•́๑)۶
+我是一名中学物理老师，喜欢在空闲的时候写有趣的科幻小说，我希望能保持乐观与勇气，相信科学与人类的能力，做一个真正善良的人。٩(๑•̀ω•́๑)و
 
 ---
 
