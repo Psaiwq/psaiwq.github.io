@@ -1,4 +1,4 @@
-baseURL = 'https://yourusername.github.io/'
+baseURL = 'https://psaiwq.github.io/'
 languageCode = 'zh-cn'
 title = '骏彦的科幻之家'                           # 网站大标题，带有一点科幻的孤独与探索感
 theme = "PaperMod"
@@ -21,12 +21,12 @@ theme = "PaperMod"
 
     # 社交/联系方式图标（选填：在名片下方显示清爽的小图标）
    ## [[params.socialIcons]]
-        ##name = "email"
-        ##url = "mailto:your-email@email.com"    # 换成你的邮箱，方便读者或出版合作联系你
+         ##name = "email"
+         ##url = "mailto:your-email@email.com"    # 换成你的邮箱，方便读者或出版合作联系你
 
 # 顶部导航栏：为你的科幻作品精细分类
 [[menu.main]]
-    name = "🚀 首页"                         # 代替普通的“首页”
+    name = "🚀 首页"                         # 代替普通的"首页"
     url = "/"
     weight = 10
 
@@ -39,6 +39,4 @@ theme = "PaperMod"
     name = "📡 关于我"                 # 介绍你建站的初心、创作理念
     url = "/about/"
     weight = 30
-
-
 
