@@ -5,7 +5,7 @@ draft: false
 ---
 
 <p style="text-align:center;">
-  <img src="/images/profile.jpg" alt="头像" style="width:160px;display:inline-block;margin-bottom:1rem;">
+  <img src="images/profile.jpg" alt="头像" style="width:160px;display:inline-block;margin-bottom:1rem;">
 </p>
 
 ## 个人简介
