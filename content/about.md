@@ -14,6 +14,10 @@ draft: false
 
 ---
 
-## 数字极简
+## 我的另一个身份/数字极简主义
 除了物理老师的身份，我还是一名数字极简主义者，要想了解更多关于数字极简主义的资讯，可以点击下面豆瓣个人主页的链接：
-[点击这里](https://www.douban.com/group/people/Psaiii/)
+[psaiwq的豆瓣个人主页](https://www.douban.com/group/people/Psaiii/)
+
+---
+## 联系方式
+电子邮件：psaiwq@gmail.com 
