@@ -5,7 +5,7 @@ draft: false
 ---
 
 <p style="text-align:center;">
-  <img src="/images/profile.png" alt="头像" style="width:160px;border-radius:50%;display:inline-block;margin-bottom:1rem;">
+  <img src="/images/微信图片_20260702201158_32_5.jpg" alt="头像" style="width:160px;border-radius:50%;display:inline-block;margin-bottom:1rem;">
 </p>
 
 ## 个人简介
