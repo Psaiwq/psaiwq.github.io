@@ -4,9 +4,7 @@ title: "📡 关于我"
 draft: false
 ---
 
-<p style="text-align:center;">
-  <img src="/images/profile.jpg" alt="头像" style="width:160px;border-radius:50%;display:inline-block;margin-bottom:1rem;">
-</p>
+![头像](/images/profile.jpg)
 
 ## 个人简介
 
