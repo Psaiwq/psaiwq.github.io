@@ -4,10 +4,6 @@ title: "📡 关于我"
 draft: false
 ---
 
-<div style="text-align: center;">
-  <img src="images/profile.jpg" alt="头像" style="width:160px;height:160px;border-radius:50%;margin-bottom:1rem;">
-</div>
-
 ## 个人简介
 
 我是一名中学物理老师，喜欢在空闲的时候写有趣的科幻小说，我希望能保持乐观与勇气，相信科学与人类的能力，做一个真正善良的人。٩(๑•̀ω•́)و
@@ -15,8 +11,8 @@ draft: false
 ---
 
 ## 我的另一个身份/数字极简主义
-除了物理老师的身份，我还是一名数字极简主义者，要想了解更多关于数字极简主义的资讯，可以点击下面豆瓣个人主页的链接：
-[psaiwq的豆瓣个人主页](https://www.douban.com/group/people/Psaiii/)
+除了物理老师的身份，我还是一名数字极简主义者，平时会在豆瓣数字极简主义小组发表关于数字极简的文章，可以点击下面豆瓣数字极简主义小组的链接查看：
+[数字极简主义小组](https://www.douban.com/group/662976/)
 
 ---
 ## 联系方式
